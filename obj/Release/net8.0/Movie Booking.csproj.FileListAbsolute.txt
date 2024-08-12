@@ -160,3 +160,30 @@ D:\Movie Booking\obj\Release\net8.0\refint\Movie Booking.dll
 D:\Movie Booking\obj\Release\net8.0\Movie Booking.pdb
 D:\Movie Booking\obj\Release\net8.0\Movie Booking.genruntimeconfig.cache
 D:\Movie Booking\obj\Release\net8.0\ref\Movie Booking.dll
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\appsettings.Development.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\appsettings.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Movie Booking.deps.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Movie Booking.runtimeconfig.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application.deps.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application.runtimeconfig.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\appsettings.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\obj\project.assets.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\bin\Release\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json
+D:\Movie Booking\bin\Release\net8.0\Test_application\obj\Release\net8.0\Test_application.sourcelink.json
