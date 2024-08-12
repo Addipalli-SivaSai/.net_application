@@ -4669,7 +4669,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\Movie Booking\\Movie Booking.csproj",
-      "projectName": "Movie Booking",
+      "projectName": "MovieBooking",
       "projectPath": "D:\\Movie Booking\\Movie Booking.csproj",
       "packagesPath": "C:\\Users\\40038237\\.nuget\\packages\\",
       "outputPath": "D:\\Movie Booking\\obj\\",

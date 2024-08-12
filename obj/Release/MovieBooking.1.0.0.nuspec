@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MovieBooking</id>
+    <version>1.0.0</version>
+    <authors>Movie Booking</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="cae968be80eff41b6e2dd21340e7375fa5ca9907" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="MailKit" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.sqlserver" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net8.0/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Movie Booking\bin\Release\net8.0\Movie Booking.runtimeconfig.json" target="lib\net8.0\Movie Booking.runtimeconfig.json" />
+    <file src="D:\Movie Booking\bin\Release\net8.0\Movie Booking.dll" target="lib\net8.0\Movie Booking.dll" />
+    <file src="D:\Movie Booking\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="D:\Movie Booking\appsettings.Development.json" target="contentFiles\any\net8.0\appsettings.Development.json" />
+    <file src="D:\Movie Booking\appsettings.json" target="content\appsettings.json" />
+    <file src="D:\Movie Booking\appsettings.json" target="contentFiles\any\net8.0\appsettings.json" />
+  </files>
+</package>
