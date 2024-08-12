@@ -8,7 +8,9 @@
     <IsPackable>true</IsPackable>
     <IsTestProject>true</IsTestProject>
   </PropertyGroup>
-
+ <PropertyGroup>
+ <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.6.0" />
     <PackageReference Include="xunit" Version="2.9.0" />

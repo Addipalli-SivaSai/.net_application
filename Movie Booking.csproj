@@ -12,6 +12,9 @@
   <PackageId>MovieBooking</PackageId>
   <Version>1.0.0</Version>
   </PropertyGroup>
+ <PropertyGroup>
+ <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="MailKit" Version="4.4.0" />
