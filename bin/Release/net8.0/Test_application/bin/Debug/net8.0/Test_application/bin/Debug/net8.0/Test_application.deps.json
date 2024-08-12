@@ -13,7 +13,7 @@
           "coverlet.collector": "6.0.0",
           "xunit": "2.9.0",
           "xunit.runner.visualstudio": "2.4.5",
-          "Movie Booking": "1.0.0.0"
+          "Movie Booking": "0.0.0.0"
         },
         "runtime": {
           "Test_application.dll": {}
@@ -925,11 +925,11 @@
           "Movie Booking.dll": {}
         }
       },
-      "Movie Booking/1.0.0.0": {
+      "Movie Booking/0.0.0.0": {
         "runtime": {
           "Movie Booking.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
           }
         }
       }
@@ -1506,7 +1506,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Movie Booking/1.0.0.0": {
+    "Movie Booking/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
