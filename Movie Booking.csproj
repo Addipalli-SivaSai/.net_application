@@ -12,10 +12,10 @@
   <PackageId>MovieBooking</PackageId>
   <Version>1.0.0</Version>
   </PropertyGroup>
- <PropertyGroup>
- <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-  </PropertyGroup>
-
+<PropertyGroup>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>    
+</PropertyGroup>
   <ItemGroup>
     <PackageReference Include="MailKit" Version="4.4.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.1" />
