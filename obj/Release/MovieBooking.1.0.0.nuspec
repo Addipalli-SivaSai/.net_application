@@ -5,13 +5,14 @@
     <version>1.0.0</version>
     <authors>Movie Booking</authors>
     <description>Package Description</description>
-    <repository type="git" commit="cae968be80eff41b6e2dd21340e7375fa5ca9907" />
+    <repository type="git" commit="c337e958ef3198f60bf4c1d22d28848b7730bf11" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="MailKit" version="4.4.0" exclude="Build,Analyzers" />
         <dependency id="Microsoft.EntityFrameworkCore" version="8.0.1" exclude="Build,Analyzers" />
         <dependency id="Microsoft.EntityFrameworkCore.sqlserver" version="8.0.1" exclude="Build,Analyzers" />
         <dependency id="Swashbuckle.AspNetCore" version="6.4.0" exclude="Build,Analyzers" />
+        <dependency id="xunit" version="2.9.0" exclude="Build,Analyzers" />
       </group>
     </dependencies>
     <frameworkReferences>
@@ -22,6 +23,37 @@
     <contentFiles>
       <files include="any/net8.0/appsettings.Development.json" buildAction="Content" />
       <files include="any/net8.0/appsettings.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/appsettings.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Movie Booking.deps.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Movie Booking.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application.deps.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/appsettings.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Movie Booking.deps.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Movie Booking.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application.deps.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/appsettings.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Movie Booking.deps.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Movie Booking.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application.deps.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application.runtimeconfig.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application.deps.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/Debug/net8.0/Test_application.sourcelink.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/project.assets.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/Test_application.csproj.nuget.dgspec.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/Debug/net8.0/Test_application.sourcelink.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/project.assets.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/Test_application.csproj.nuget.dgspec.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/Debug/net8.0/Test_application.sourcelink.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/project.assets.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/bin/Debug/net8.0/Test_application/obj/Test_application.csproj.nuget.dgspec.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/obj/Debug/net8.0/Test_application.sourcelink.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/obj/project.assets.json" buildAction="Content" />
+      <files include="any/net8.0/Test_application/obj/Test_application.csproj.nuget.dgspec.json" buildAction="Content" />
     </contentFiles>
   </metadata>
   <files>
@@ -31,5 +63,67 @@
     <file src="D:\Movie Booking\appsettings.Development.json" target="contentFiles\any\net8.0\appsettings.Development.json" />
     <file src="D:\Movie Booking\appsettings.json" target="content\appsettings.json" />
     <file src="D:\Movie Booking\appsettings.json" target="contentFiles\any\net8.0\appsettings.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\appsettings.Development.json" target="content\Test_application\bin\Debug\net8.0\appsettings.Development.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\appsettings.Development.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\appsettings.json" target="content\Test_application\bin\Debug\net8.0\appsettings.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\appsettings.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" target="content\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" target="content\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application.deps.json" target="content\Test_application\bin\Debug\net8.0\Test_application.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application.deps.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" target="content\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" target="content\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" target="content\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" target="content\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" target="content\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" />
+    <file src="D:\Movie Booking\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" target="contentFiles\any\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" />
+    <file src="D:\Movie Booking\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" target="content\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" />
+    <file src="D:\Movie Booking\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" target="contentFiles\any\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json" />
+    <file src="D:\Movie Booking\Test_application\obj\project.assets.json" target="content\Test_application\obj\project.assets.json" />
+    <file src="D:\Movie Booking\Test_application\obj\project.assets.json" target="contentFiles\any\net8.0\Test_application\obj\project.assets.json" />
+    <file src="D:\Movie Booking\Test_application\obj\Test_application.csproj.nuget.dgspec.json" target="content\Test_application\obj\Test_application.csproj.nuget.dgspec.json" />
+    <file src="D:\Movie Booking\Test_application\obj\Test_application.csproj.nuget.dgspec.json" target="contentFiles\any\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json" />
   </files>
 </package>

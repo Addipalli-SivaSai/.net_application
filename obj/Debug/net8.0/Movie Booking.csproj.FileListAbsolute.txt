@@ -122,12 +122,7 @@ D:\Movie Booking\obj\Debug\net8.0\Movie Booking.MvcApplicationPartsAssemblyInfo.
 D:\Movie Booking\obj\Debug\net8.0\Movie Booking.MvcApplicationPartsAssemblyInfo.cache
 D:\Movie Booking\obj\Debug\net8.0\staticwebassets.build.json
 D:\Movie Booking\obj\Debug\net8.0\staticwebassets.development.json
-D:\Movie Booking\obj\Debug\net8.0\staticwebassets\msbuild.Movie Booking.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Movie Booking\obj\Debug\net8.0\staticwebassets\msbuild.build.Movie Booking.props
-D:\Movie Booking\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Movie Booking.props
-D:\Movie Booking\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Movie Booking.props
 D:\Movie Booking\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Movie Booking\obj\Debug\net8.0\scopedcss\bundle\Movie Booking.styles.css
 D:\Movie Booking\obj\Debug\net8.0\Movie Booking.csproj.CopyComplete
 D:\Movie Booking\obj\Debug\net8.0\Movie Booking.dll
 D:\Movie Booking\obj\Debug\net8.0\refint\Movie Booking.dll
@@ -137,3 +132,35 @@ D:\Movie Booking\obj\Debug\net8.0\ref\Movie Booking.dll
 D:\Movie Booking\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 D:\Movie Booking\bin\Debug\net8.0\MailKit.dll
 D:\Movie Booking\bin\Debug\net8.0\MimeKit.dll
+D:\Movie Booking\obj\Debug\net8.0\Movie Booking.sourcelink.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\obj\project.assets.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json
+D:\Movie Booking\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Movie Booking\bin\Debug\net8.0\xunit.assert.dll
+D:\Movie Booking\bin\Debug\net8.0\xunit.core.dll
+D:\Movie Booking\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Movie Booking\obj\Debug\net8.0\staticwebassets\msbuild.MovieBooking.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Movie Booking\obj\Debug\net8.0\staticwebassets\msbuild.build.MovieBooking.props
+D:\Movie Booking\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieBooking.props
+D:\Movie Booking\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieBooking.props
+D:\Movie Booking\obj\Debug\net8.0\scopedcss\bundle\MovieBooking.styles.css
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.runtimeconfig.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.Development.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\appsettings.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.deps.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Movie Booking.runtimeconfig.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application.deps.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Debug\net8.0\Test_application.sourcelink.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\project.assets.json
+D:\Movie Booking\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\bin\Debug\net8.0\Test_application\obj\Test_application.csproj.nuget.dgspec.json
