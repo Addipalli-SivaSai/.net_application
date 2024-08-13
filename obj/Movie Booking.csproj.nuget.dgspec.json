@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Movie Booking\\Movie Booking.csproj": {}
+    "D:\\Movie Booking\\Movie Booking.csproj": {}
   },
   "projects": {
-    "d:\\Movie Booking\\Movie Booking.csproj": {
+    "D:\\Movie Booking\\Movie Booking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Movie Booking\\Movie Booking.csproj",
+        "projectUniqueName": "D:\\Movie Booking\\Movie Booking.csproj",
         "projectName": "MovieBooking",
-        "projectPath": "d:\\Movie Booking\\Movie Booking.csproj",
+        "projectPath": "D:\\Movie Booking\\Movie Booking.csproj",
         "packagesPath": "C:\\Users\\40038237\\.nuget\\packages\\",
-        "outputPath": "d:\\Movie Booking\\obj\\",
+        "outputPath": "D:\\Movie Booking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\40038237\\AppData\\Roaming\\NuGet\\NuGet.Config"
