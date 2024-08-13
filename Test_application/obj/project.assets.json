@@ -4291,11 +4291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Movie Booking\\Test_application\\Test_application.csproj",
+      "projectUniqueName": "d:\\Movie Booking\\Test_application\\Test_application.csproj",
       "projectName": "Test_application",
-      "projectPath": "D:\\Movie Booking\\Test_application\\Test_application.csproj",
+      "projectPath": "d:\\Movie Booking\\Test_application\\Test_application.csproj",
       "packagesPath": "C:\\Users\\40038237\\.nuget\\packages\\",
-      "outputPath": "D:\\Movie Booking\\Test_application\\obj\\",
+      "outputPath": "d:\\Movie Booking\\Test_application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\40038237\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4310,8 +4310,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Movie Booking\\Movie Booking.csproj": {
-              "projectPath": "D:\\Movie Booking\\Movie Booking.csproj"
+            "d:\\Movie Booking\\Movie Booking.csproj": {
+              "projectPath": "d:\\Movie Booking\\Movie Booking.csproj"
             }
           }
         }
