@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <IsPackable>true</IsPackable>
-    <IsTestProject>true</IsTestProject>
+    <IsTestProject>false</IsTestProject>
   </PropertyGroup>
  <PropertyGroup>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
