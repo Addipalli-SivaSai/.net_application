@@ -11,6 +11,27 @@ using Microsoft.Identity.Client;
 using Microsoft.IdentityModel.Tokens;
 using Movie_Booking.Migrations;
 using Movie_Booking.Model;
+using Microsoft.Identity.Client;
+using Microsoft.IdentityModel.Tokens;
+using Movie_Booking.Migrations;
+using Movie_Booking.Model;
+using Microsoft.Identity.Client;
+using Microsoft.IdentityModel.Tokens;
+using Movie_Booking.Migrations;
+using Movie_Booking.Model;
+using Microsoft.Identity.Client;
+using Microsoft.IdentityModel.Tokens;
+using Movie_Booking.Migrations;
+using Movie_Booking.Model;
+using Microsoft.Identity.Client;
+using Microsoft.IdentityModel.Tokens;
+using Movie_Booking.Migrations;
+using Movie_Booking.Model;
+using Microsoft.Identity.Client;
+using Microsoft.IdentityModel.Tokens;
+using Movie_Booking.Migrations;
+using Movie_Booking.Model;
+
 namespace Movie_Booking.Repositry
 {
     public class MovieBookingRepositry : IMovieBooking
