@@ -7,7 +7,10 @@ using Microsoft.Identity.Client;
 using Microsoft.IdentityModel.Tokens;
 using Movie_Booking.Migrations;
 using Movie_Booking.Model;
-
+using Microsoft.Identity.Client;
+using Microsoft.IdentityModel.Tokens;
+using Movie_Booking.Migrations;
+using Movie_Booking.Model;
 namespace Movie_Booking.Repositry
 {
     public class MovieBookingRepositry : IMovieBooking
@@ -103,6 +106,12 @@ namespace Movie_Booking.Repositry
             var movie_list=await _context.movies.Where(x=>x.language==lang && x.EndDate>=DateTime.Now.Date ).OrderByDescending(x=>x.ReleaseDate).ToListAsync();
             return movie_list;
         }
+            public async Task<List<Movie>> GetByLanguage1(string lang)
+        {
+            var movie_list=await _context.movies.Where(x=>x.language==lang && x.EndDate>=DateTime.Now.Date ).OrderByDescending(x=>x.ReleaseDate).ToListAsync();
+            return movie_list;
+        }
+
 
         public  Task<TicketBooking> getbyticketid(int id)
         {
